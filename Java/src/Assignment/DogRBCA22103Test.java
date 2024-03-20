@@ -44,7 +44,7 @@ DogRBCA22103 dog2 = new DogRBCA22103("Max", "German Shepherd");
 	        assertEquals("Rocky", dog1.getName());
 	        assertEquals("Golden Retriever", dog1.getBreed());
 
-	        assertEquals("Bella", dog2.getName());
+	        assertEquals("Bellaa", dog2.getName());
 	        assertEquals("Beagle", dog2.getBreed());
 
 
